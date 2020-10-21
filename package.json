@@ -1,0 +1,20 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "\"Proyect with MongoDB and NodeJs for my specialization in Full Stack\"",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebasmontoyasm/Server-side-NodeJS-MongoDB.git"
+  },
+  "author": "Sebastian Montoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebasmontoyasm/Server-side-NodeJS-MongoDB/issues"
+  },
+  "homepage": "https://github.com/Sebasmontoyasm/Server-side-NodeJS-MongoDB#readme"
+}
